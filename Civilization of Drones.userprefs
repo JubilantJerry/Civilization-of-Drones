@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\DroneResponseCriteriaController.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\BeamFXScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\StatsLogger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\FXPool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\TalkFXScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DronePregnancyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DroneHealthScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DronePool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DroneStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DroneMovementScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DroneGenome.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\MasterInitializationScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\GUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DroneState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\DroneResponseCriteriaController.cs" Line="448" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
